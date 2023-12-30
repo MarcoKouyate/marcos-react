@@ -1,3 +1,7 @@
+# About this project
+
+This is my first ReactJS project. I use it as a playground to build my components. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
